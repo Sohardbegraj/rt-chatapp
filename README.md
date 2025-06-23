@@ -31,3 +31,5 @@ git clone https://github.com/your-username/rt-chatapp.git
 cd rt-chatapp
 npm install
 npm run dev
+
+[ui](frontend/chatapp/public/1.png)
