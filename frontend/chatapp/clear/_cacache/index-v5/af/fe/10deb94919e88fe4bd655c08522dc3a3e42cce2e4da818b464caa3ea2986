@@ -1,0 +1,2 @@
+
+a2e15600cf299e15e5c34593eff8ac29f8da1654	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@ampproject/remapping/-/remapping-2.3.0.tgz","integrity":null,"time":1750527515940,"size":"0","metadata":{"time":1750527515939,"url":"http://registry.npmjs.org/@ampproject/remapping/-/remapping-2.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:35 GMT","location":"https://registry.npmjs.org/@ampproject/remapping/-/remapping-2.3.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

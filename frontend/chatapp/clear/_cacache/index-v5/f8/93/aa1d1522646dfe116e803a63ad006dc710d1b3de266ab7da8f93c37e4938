@@ -1,0 +1,2 @@
+
+e545961d055472628c21bb6d0d459935d98da224	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/word-wrap","integrity":null,"time":1750527505883,"size":"0","metadata":{"time":1750527505883,"url":"http://registry.npmjs.org/word-wrap","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:25 GMT","location":"https://registry.npmjs.org/word-wrap","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

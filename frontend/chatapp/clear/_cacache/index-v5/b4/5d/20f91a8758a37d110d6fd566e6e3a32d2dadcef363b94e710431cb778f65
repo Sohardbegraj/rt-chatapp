@@ -1,0 +1,2 @@
+
+d21afbf43b2fd2a9c5bbcd90d306d60e24106478	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/prelude-ls","integrity":null,"time":1750527505879,"size":"0","metadata":{"time":1750527505879,"url":"http://registry.npmjs.org/prelude-ls","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:25 GMT","location":"https://registry.npmjs.org/prelude-ls","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

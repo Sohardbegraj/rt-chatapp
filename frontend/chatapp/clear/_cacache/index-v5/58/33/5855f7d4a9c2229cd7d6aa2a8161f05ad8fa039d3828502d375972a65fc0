@@ -1,0 +1,2 @@
+
+c9a19495e176bc56967b0160cd69989423b0c1c4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/recoil","integrity":null,"time":1750606014657,"size":"0","metadata":{"time":1750606014656,"url":"http://registry.npmjs.org/recoil","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 22 Jun 2025 15:26:52 GMT","location":"https://registry.npmjs.org/recoil","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

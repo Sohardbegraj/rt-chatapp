@@ -1,0 +1,2 @@
+
+f8a060331d9d3ec57da48fb644f36c4fc8511064	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/hamt_plus/-/hamt_plus-1.0.2.tgz","integrity":null,"time":1750606017542,"size":"0","metadata":{"time":1750606017542,"url":"http://registry.npmjs.org/hamt_plus/-/hamt_plus-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 22 Jun 2025 15:26:55 GMT","location":"https://registry.npmjs.org/hamt_plus/-/hamt_plus-1.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

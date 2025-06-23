@@ -1,0 +1,2 @@
+
+7cbe4c2991ee3553b47072d65c25b31ffbf3932a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/levn","integrity":null,"time":1750527505827,"size":"0","metadata":{"time":1750527505827,"url":"http://registry.npmjs.org/levn","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:25 GMT","location":"https://registry.npmjs.org/levn","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

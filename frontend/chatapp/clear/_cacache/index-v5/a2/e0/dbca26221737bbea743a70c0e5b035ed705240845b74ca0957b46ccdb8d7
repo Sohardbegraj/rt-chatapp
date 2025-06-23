@@ -1,0 +1,2 @@
+
+4788321170924c1f20870e170295ad6b2ca498a0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/espree","integrity":null,"time":1750527500790,"size":"0","metadata":{"time":1750527500790,"url":"http://registry.npmjs.org/espree","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:20 GMT","location":"https://registry.npmjs.org/espree","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

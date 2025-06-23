@@ -1,0 +1,2 @@
+
+46434dcc035e60b77db02ff2f3927e44842182c3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@types/estree/-/estree-1.0.8.tgz","integrity":null,"time":1750527515136,"size":"0","metadata":{"time":1750527515136,"url":"http://registry.npmjs.org/@types/estree/-/estree-1.0.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:34 GMT","location":"https://registry.npmjs.org/@types/estree/-/estree-1.0.8.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

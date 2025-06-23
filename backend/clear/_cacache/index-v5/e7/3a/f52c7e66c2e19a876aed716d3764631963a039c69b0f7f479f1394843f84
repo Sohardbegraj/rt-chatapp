@@ -1,0 +1,2 @@
+
+db6660db70a49549e7452d41bcafa953626bf5c9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/body-parser/-/body-parser-2.2.0.tgz","integrity":null,"time":1750614554822,"size":"0","metadata":{"time":1750614554822,"url":"http://registry.npmjs.org/body-parser/-/body-parser-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 22 Jun 2025 17:49:11 GMT","location":"https://registry.npmjs.org/body-parser/-/body-parser-2.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

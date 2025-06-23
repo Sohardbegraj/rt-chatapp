@@ -1,0 +1,2 @@
+
+0b9df54af4b3cfe96ca843a926170d1cceb748da	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz","integrity":null,"time":1750527514791,"size":"0","metadata":{"time":1750527514791,"url":"http://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:34 GMT","location":"https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

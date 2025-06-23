@@ -1,0 +1,2 @@
+
+262fae8d3a30885d751f9e4d2f137ed0acf0ebe9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/optionator","integrity":null,"time":1750527500868,"size":"0","metadata":{"time":1750527500868,"url":"http://registry.npmjs.org/optionator","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:38:20 GMT","location":"https://registry.npmjs.org/optionator","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

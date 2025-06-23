@@ -1,0 +1,2 @@
+
+334ed4af9ee4ce99fbe26546d67a775e61ee3461	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/minipass","integrity":null,"time":1750527619218,"size":"0","metadata":{"time":1750527619218,"url":"http://registry.npmjs.org/minipass","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 21 Jun 2025 17:40:18 GMT","location":"https://registry.npmjs.org/minipass","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
