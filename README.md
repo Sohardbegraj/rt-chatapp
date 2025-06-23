@@ -23,7 +23,7 @@ A lightweight real-time chat application built with **React**, **TypeScript**, a
 ---
 
 ## 📦 Getting Started
-[ui](frontend/chatapp/public/Screenshot 2025-06-23 165350.png)
+![ui](frontend/chatapp/public/Screenshot 2025-06-23 165350.png)
 
 
 ### 1. Clone the repository
