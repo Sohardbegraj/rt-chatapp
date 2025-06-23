@@ -23,6 +23,8 @@ A lightweight real-time chat application built with **React**, **TypeScript**, a
 ---
 
 ## 📦 Getting Started
+[ui](frontend/chatapp/public/Screenshot 2025-06-23 165350.png)
+
 
 ### 1. Clone the repository
 
@@ -31,5 +33,5 @@ git clone https://github.com/your-username/rt-chatapp.git
 cd rt-chatapp
 npm install
 npm run dev
+##
 
-[ui](frontend/chatapp/public/1.png)
